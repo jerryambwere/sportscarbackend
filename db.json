@@ -1,9 +1,154 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cars": [
+    {
+      "id": 1,
+      "name": "Ferrari 488 GTB",
+      "modelYear": 2024,
+      "url": "https://www.ferrari.com/en-US/auto/488-gtb",
+      "hp": 661,
+      "0-60": "2.9s",
+      "speed": "205 mph",
+      "unitsAvailable": 15
+    },
+    {
+      "id": 2,
+      "name": "Porsche 911 Turbo S",
+      "modelYear": 2024,
+      "url": "https://www.porsche.com/usa/models/911/911-turbo-models/",
+      "hp": 640,
+      "0-60": "2.6s",
+      "speed": "205 mph",
+      "unitsAvailable": 12
+    },
+    {
+      "id": 3,
+      "name": "Lamborghini Huracán EVO",
+      "modelYear": 2024,
+      "url": "https://www.lamborghini.com/en-en/models/huracan/huracan-evo/",
+      "hp": 631,
+      "0-60": "2.9s",
+      "speed": "202 mph",
+      "unitsAvailable": 10
+    },
+    {
+      "id": 4,
+      "name": "McLaren 720S",
+      "modelYear": 2024,
+      "url": "https://www.mclaren.com/automotive/720s/",
+      "hp": 710,
+      "0-60": "2.7s",
+      "speed": "212 mph",
+      "unitsAvailable": 8
+    },
+    {
+      "id": 5,
+      "name": "Aston Martin Vantage",
+      "modelYear": 2024,
+      "url": "https://www.astonmartin.com/en/models/vantage",
+      "hp": 503,
+      "0-60": "3.5s",
+      "speed": "195 mph",
+      "unitsAvailable": 20
+    },
+    {
+      "id": 6,
+      "name": "Chevrolet Corvette C8 Z06",
+      "modelYear": 2024,
+      "url": "https://www.chevrolet.com/corvette",
+      "hp": 670,
+      "0-60": "2.6s",
+      "speed": "205 mph",
+      "unitsAvailable": 25
+    },
+    {
+      "id": 7,
+      "name": "Bugatti Chiron",
+      "modelYear": 2024,
+      "url": "https://www.bugatti.com/chiron/",
+      "hp": 1500,
+      "0-60": "2.4s",
+      "speed": "261 mph",
+      "unitsAvailable": 5
+    },
+    {
+      "id": 8,
+      "name": "Ford GT",
+      "modelYear": 2024,
+      "url": "https://www.ford.com/performance/ford-gt/",
+      "hp": 660,
+      "0-60": "2.8s",
+      "speed": "216 mph",
+      "unitsAvailable": 6
+    },
+    {
+      "id": 9,
+      "name": "BMW M4 GTS",
+      "modelYear": 2024,
+      "url": "https://www.bmwusa.com/vehicles/m4/m4-gts.html",
+      "hp": 493,
+      "0-60": "3.8s",
+      "speed": "190 mph",
+      "unitsAvailable": 10
+    },
+    {
+      "id": 10,
+      "name": "Jaguar F-Type R",
+      "modelYear": 2024,
+      "url": "https://www.jaguarusa.com/all-models/f-type/index.html",
+      "hp": 575,
+      "0-60": "3.5s",
+      "speed": "186 mph",
+      "unitsAvailable": 14
+    },
+    {
+      "id": 11,
+      "name": "Nissan GT-R NISMO",
+      "modelYear": 2024,
+      "url": "https://www.nissanusa.com/vehicles/sports-cars/gt-r.html",
+      "hp": 600,
+      "0-60": "2.9s",
+      "speed": "205 mph",
+      "unitsAvailable": 7
+    },
+    {
+      "id": 12,
+      "name": "Pagani Huayra",
+      "modelYear": 2024,
+      "url": "https://www.pagani.com/huayra/",
+      "hp": 720,
+      "0-60": "2.8s",
+      "speed": "238 mph",
+      "unitsAvailable": 4
+    },
+    {
+      "id": 13,
+      "name": "Ferrari SF90 Stradale",
+      "modelYear": 2024,
+      "url": "https://www.ferrari.com/en-US/auto/sf90-stradale",
+      "hp": 986,
+      "0-60": "2.5s",
+      "speed": "211 mph",
+      "unitsAvailable": 9
+    },
+    {
+      "id": 14,
+      "name": "Porsche 918 Spyder",
+      "modelYear": 2024,
+      "url": "https://www.porsche.com/usa/models/918/918-spyder/",
+      "hp": 887,
+      "0-60": "2.5s",
+      "speed": "214 mph",
+      "unitsAvailable": 3
+    },
+    {
+      "id": 15,
+      "name": "Lamborghini Aventador SVJ",
+      "modelYear": 2024,
+      "url": "https://www.lamborghini.com/en-en/models/aventador/aventador-svj/",
+      "hp": 770,
+      "0-60": "2.8s",
+      "speed": "217 mph",
+      "unitsAvailable": 6
+    }
+  ]
 }
