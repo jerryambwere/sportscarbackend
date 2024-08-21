@@ -1,154 +1,204 @@
+
 {
   "cars": [
     {
       "id": 1,
-      "name": "Ferrari 812 superfast",
+      "name": "Ferrari 812 Superfast",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/236x/3c/64/73/3c6473d5ae6f429aee4411f1a05a7c64.jpg",
+      "url": "https://i.pinimg.com/736x/4f/28/60/4f2860bd5248491ec2fe8c4b6d928bf4.jpg",
       "hp": 661,
       "0-60": "2.9s",
       "speed": "205 mph",
-      "unitsAvailable": 15
+      "unitsAvailable": 15,
+      "price": "$335,000",
+      "engineType": "6.5L V12",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 2,
-      "name": "Porsche  GT3RS",
+      "name": "Porsche GT3 RS",
       "modelYear": 2024,
-      "url": "hhttps://i.pinimg.com/236x/95/ec/2d/95ec2d4d41a63fdb0d3b3f5a8c7a6545.jpg",
+      "url": "https://i.pinimg.com/736x/a3/ea/ed/a3eaed95b7718d6e4d014bcd7069021a.jpg",
       "hp": 640,
       "0-60": "2.6s",
       "speed": "205 mph",
-      "unitsAvailable": 12
+      "unitsAvailable": 12,
+      "price": "$225,000",
+      "engineType": "4.0L flat-six",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 3,
       "name": "Lamborghini Centenario",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/236x/73/72/a7/7372a7349fa207a3041b6fd1ad117177.jpg",
+      "url": "https://i.pinimg.com/564x/73/72/a7/7372a7349fa207a3041b6fd1ad117177.jpg",
       "hp": 631,
       "0-60": "2.9s",
       "speed": "202 mph",
-      "unitsAvailable": 10
+      "unitsAvailable": 10,
+      "price": "$1,900,000",
+      "engineType": "6.5L V12",
+      "transmissionType": "7-speed automatic"
     },
     {
       "id": 4,
       "name": "McLaren 765LT",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/236x/62/20/d1/6220d1b50ae0ee9d0cba2964552db113.jpg",
+      "url": "https://i.pinimg.com/236x/51/db/b8/51dbb8f479bb1cb4875a4fdc7b09b8d3.jpg",
       "hp": 710,
       "0-60": "2.7s",
       "speed": "212 mph",
-      "unitsAvailable": 8
+      "unitsAvailable": 8,
+      "price": "$365,000",
+      "engineType": "4.0L twin-turbo V8",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 5,
       "name": "Aston Martin Vantage",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/236x/01/2a/b8/012ab8f3b94b755faa0d0c765a8dc6a3.jpg",
+      "url": "https://i.pinimg.com/236x/5e/88/b8/5e88b81951bde6d6f3611c8d4b786fc9.jpg",
       "hp": 503,
       "0-60": "3.5s",
       "speed": "195 mph",
-      "unitsAvailable": 20
+      "unitsAvailable": 20,
+      "price": "$175,000",
+      "engineType": "4.0L twin-turbo V8",
+      "transmissionType": "8-speed automatic"
     },
     {
       "id": 6,
       "name": "Chevrolet Corvette C7 Z06",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/236x/6b/29/65/6b2965f70ce40a4afb16e60c34c91701.jpg",
+      "url": "https://i.pinimg.com/736x/36/90/02/36900223a94a96d4bde68a646028f8f9.jpg",
       "hp": 670,
       "0-60": "2.6s",
       "speed": "205 mph",
-      "unitsAvailable": 25
+      "unitsAvailable": 25,
+      "price": "$110,000",
+      "engineType": "6.2L V8",
+      "transmissionType": "7-speed manual"
     },
     {
       "id": 7,
       "name": "Bugatti Chiron",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/564x/29/17/24/29172492e968287d909935481773dd1d.jpg",
+      "url": "https://i.pinimg.com/474x/b0/60/ab/b060abff408b8df2651943b21fec4b43.jpg",
       "hp": 1500,
       "0-60": "2.4s",
       "speed": "261 mph",
-      "unitsAvailable": 5
+      "unitsAvailable": 5,
+      "price": "$3,000,000",
+      "engineType": "8.0L quad-turbo W16",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 8,
-      "name": " Koenigsegg one1",
+      "name": "Koenigsegg Jesko",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/564x/7d/10/56/7d10566d6ebf59bd687dbeb1bc1e88cd.jpg",
+      "url": "https://i.pinimg.com/236x/c3/e3/a8/c3e3a8168fb4675cd2ef3d2e355bf866.jpg",
       "hp": 660,
       "0-60": "2.8s",
       "speed": "216 mph",
-      "unitsAvailable": 6
+      "unitsAvailable": 6,
+      "price": "$2,800,000",
+      "engineType": "5.0L twin-turbo V8",
+      "transmissionType": "9-speed multi-clutch"
     },
     {
       "id": 9,
       "name": "BMW M5 CS",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/564x/79/9f/83/799f839075d8ae6fe6280d794318bae3.jpg",
+      "url": "https://i.pinimg.com/474x/6f/20/f9/6f20f9663a9d6cb5e663cb4032208fa7.jpg",
       "hp": 493,
       "0-60": "3.8s",
       "speed": "190 mph",
-      "unitsAvailable": 10
+      "unitsAvailable": 10,
+      "price": "$150,000",
+      "engineType": "4.4L twin-turbo V8",
+      "transmissionType": "8-speed automatic"
     },
     {
       "id": 10,
       "name": "AMG GT BS",
       "modelYear": 2024,
-      "url": "https://www.jaguarusa.com/all-models/f-type/index.html",
+      "url": "https://i.pinimg.com/236x/09/4e/bf/094ebfd424b521b4f00f3dc169e49bfd.jpg",
       "hp": 575,
       "0-60": "3.5s",
       "speed": "186 mph",
-      "unitsAvailable": 14
+      "unitsAvailable": 14,
+      "price": "$200,000",
+      "engineType": "4.0L twin-turbo V8",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 11,
-      "name": "RS6",
+      "name": "Audi RS6",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/736x/b2/89/36/b2893659634f9400b57e91bf1a3c773d.jpg",
+      "url": "https://i.pinimg.com/236x/47/17/0b/47170bb4698aba919a9f70fc4bf84006.jpg",
       "hp": 600,
       "0-60": "2.9s",
       "speed": "205 mph",
-      "unitsAvailable": 7
+      "unitsAvailable": 7,
+      "price": "$120,000",
+      "engineType": "4.0L twin-turbo V8",
+      "transmissionType": "8-speed automatic"
     },
     {
       "id": 12,
       "name": "Pagani Huayra",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/736x/74/99/2c/74992c0c293c887e7af7442d6f24e018.jpg",
+      "url": "https://i.pinimg.com/236x/7e/0e/3c/7e0e3cacbeb3893c5f8b58b68ff50867.jpg",
       "hp": 720,
       "0-60": "2.8s",
       "speed": "238 mph",
-      "unitsAvailable": 4
+      "unitsAvailable": 4,
+      "price": "$3,000,000",
+      "engineType": "6.0L twin-turbo V12",
+      "transmissionType": "7-speed sequential"
     },
     {
       "id": 13,
       "name": "Ferrari SF90 Stradale",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/736x/ab/99/ca/ab99caf93b52c1568af1e3051b44bb72.jpg",
+      "url": "https://i.pinimg.com/236x/8d/4d/db/8d4ddbf700dda90b147fd156826e11f7.jpg",
       "hp": 986,
       "0-60": "2.5s",
       "speed": "211 mph",
-      "unitsAvailable": 9
+      "unitsAvailable": 9,
+      "price": "$625,000",
+      "engineType": "4.0L twin-turbo V8 + electric",
+      "transmissionType": "8-speed dual-clutch"
     },
     {
       "id": 14,
       "name": "Porsche 918 Spyder",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/474x/13/8d/b0/138db08a9bc92b90f2525a9f366c0773.jpg",
+      "url": "https://i.pinimg.com/236x/ce/7f/a4/ce7fa488f7cf096f26d1e658d92b7379.jpg",
       "hp": 887,
       "0-60": "2.5s",
       "speed": "214 mph",
-      "unitsAvailable": 3
+      "unitsAvailable": 3,
+      "price": "$850,000",
+      "engineType":
+
+ "4.6L V8 + electric",
+      "transmissionType": "7-speed dual-clutch"
     },
     {
       "id": 15,
-      "name": "Lamborghini Aventador SVJ",
+      "name": "SLS AMG",
       "modelYear": 2024,
-      "url": "https://i.pinimg.com/736x/57/e8/19/57e81969e91d1475decfe8366ebc2958.jpg",
+      "url": "https://i.pinimg.com/564x/02/11/d1/0211d154489a082020df98774f98ae55.jpg",
       "hp": 770,
       "0-60": "2.8s",
       "speed": "217 mph",
-      "unitsAvailable": 6
+      "unitsAvailable": 6,
+      "price": "$275,000",
+      "engineType": "6.2L V8",
+      "transmissionType": "7-speed dual-clutch"
     }
   ]
 }
+```
+
